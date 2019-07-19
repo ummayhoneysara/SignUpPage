@@ -1,0 +1,76 @@
+*{
+    margin: 0px;
+}
+/* part one */
+/* .head-one{
+    background-color: yellowgreen;
+    color: white;
+}
+.para-four{
+    color: black;
+} */
+
+/* part two */
+/* 
+body{
+    font-family: 'Mountains of Christmas', cursive;
+    background-image: url(../img/bg1.jpg);
+}
+
+.container{
+    color: white;
+    background-color: yellow;
+    margin: 0 auto;
+    width: 1140px;
+    height: 150px;
+} */
+
+/* part 3 */
+
+body{
+    font-family: 'Mountains of Christmas', cursive;
+    background-image: url(../img/bg1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container{
+    color: white;
+    background-color: #b2bec3;
+    margin: 200px auto;
+    width: 600px;
+    
+} 
+.login_section{
+    padding: 10px 50px;
+}
+.login_section img{
+    margin: 0 auto;
+    display: block;
+}
+.login_section h3{
+    text-align: center;
+    font-size: 20px;
+}
+.form-control{
+    width: 95%;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 10px;
+}
+.btn{
+    background-color: #B8E8E5;
+    border: none;
+    text-transform: uppercase;
+    padding: 20px;
+    margin: 0 auto;
+    display: block;
+    color: white;
+    font-size: 15px;
+    border-radius: 8px;
+}
+.signup-text{
+    text-transform: capitalize;
+    color: #f5f6fa;
+    font-size: 18px;
+    text-decoration: none;
+}
